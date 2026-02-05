@@ -16,7 +16,7 @@ function Calendar({ className, classNames, ...props }: CalendarProps) {
         caption_label: "text-sm font-semibold text-[#1e293b]",
         nav: "flex items-center gap-1",
         nav_button:
-          "h-8 w-8 rounded-full border border-[#e2e8f0] text-[#475569] hover:bg-[#eef2ff]",
+          "h-6 w-6 rounded-full border border-[#e2e8f0] text-[#475569] hover:bg-[#eef2ff]",
         table: "w-full border-collapse",
         head_row: "flex",
         head_cell: "w-9 text-xs text-[#94a3b8]",
